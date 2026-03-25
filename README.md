@@ -12,7 +12,7 @@ The project uses a clinical‑grade **NeuroWorks EEG device** for data acquisiti
 
 - Acquire EEG signals using the NeuroWorks system for mental‑command recognition.
 - Develop a hybrid CNN‑LSTM architecture for accurate EEG classification.
-- Build a real‑time system for wheelchair control using Arduino.
+- Build a real‑time system for wheelchair control using Arduino controller.
 - Implement a robust preprocessing and signal‑cleaning pipeline.
 
 ---
