@@ -92,7 +92,7 @@ The final selected architecture is a **CNN‑LSTM Hybrid Model**, chosen for its
 ## _Technologies Used_
 
 - Python (NumPy, SciPy, Pandas)
-- PyTorch / TensorFlow (Deep Learning)
+- TensorFlow (Deep Learning)
 - MNE Toolkit (EEG preprocessing)
 - Scikit‑Learn (Classical ML utilities)
 - Matplotlib (Visualizations)
