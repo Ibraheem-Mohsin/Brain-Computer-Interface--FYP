@@ -4,7 +4,7 @@
 
 **M.E.N.T.A.L (Mind Enhanced Neurotechnological Adaptive Learning)** is a Brain‑Computer Interface (BCI) system designed to enable hands‑free wheelchair control using EEG (electroencephalography) signals. The system classifies mental commands and translates them into movement directions such as **forward**, **backwards,** **left**, **right**, and **stop**.
 
-The project uses a clinical‑grade **NeuroWorks EEG device** for data acquisition and a hybrid **CNN‑LSTM deep learning model** for classification. It was supervised by **Dr. Ahmar Rashid** and **Dr. Shahab Ansari**.
+The project uses a clinical‑grade **Natus® NeuroWorks® EEG device** for data acquisition and a hybrid **CNN‑LSTM deep learning model** for classification. It was supervised by **Dr. Ahmar Rashid** and **Dr. Shahab Ansari**.
 
 ---
 
