@@ -85,7 +85,7 @@ The final selected architecture is a **CNN‑LSTM Hybrid Model**, chosen for its
 
 - **Accuracy** of mental‑command prediction
 - **Macro F1 Score** for balanced evaluation
-- **Latency** (< 900 ms required for reliable and immediate **wheelchair** control)
+- **Latency** (< 700 ms required for reliable and immediate **wheelchair** control for disbaled people)
 
 ---
 
