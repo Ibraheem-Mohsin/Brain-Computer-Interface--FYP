@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>M.E.N.T.A.L - Smart BCI Wheelchair</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h1 class="company-name">M.E.N.T.A.L</h1>
+        <h2 class="tagline">Smart BCI Wheelchair Solution</h2>
+    </div>
+
+    <div class="container">
+        <canvas id="eegChart"></canvas>
+
+        <div id="arena">
+            <div id="wheelchair">🦽</div>
+        </div>
+
+        <div class="status-section">
+            <h2>Detected Command:</h2>
+            <div id="predictionText">Waiting for voice input...</div>
+
+            <h2>Status:</h2>
+            <div id="wheelchairStatus">🛑 Waiting...</div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+Python v3.9
+Flask v3.1
+SpeechRecognition v3.11
+PyAudio v0.2.11
+chart.js
