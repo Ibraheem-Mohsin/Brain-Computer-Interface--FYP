@@ -3,7 +3,7 @@
 // Pin Definitions
 const int Echo = A9;     // Ultrasonic Echo
 const int Trig = A8;     // Ultrasonic Trigger
-const int servoPin = 3;  // Servo motor pin
+const int servoPin = 3;  /// Servo motor pin
 
 // Motor Driver IBT-2 Pins
 const int R_RPWM = 5;    // Right Wheel RPWM
